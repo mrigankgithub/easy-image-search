@@ -1,3 +1,7 @@
+#Description
+Easy Image Search is a simple image search web application which helps you to search images by the help of your query and provides you result in a simple and attractive way.
+API using for image search is PixaBay API
+Technology Used - Angular 7
 # ImageSearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
